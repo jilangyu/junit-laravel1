@@ -1,0 +1,17 @@
+{
+    "name": "jilang\/junit-laravel",
+    "description": "jilang test zj",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jilangyu",
+            "email": "jilagyu@126.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Jilang\\JunitLaravel\\": "src"
+        }
+    }
+}
